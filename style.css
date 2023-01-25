@@ -1,0 +1,53 @@
+.container-fluid{
+    background-color: rgb(7, 1, 47);
+    /* padding-bottom: 50px; */
+}
+
+.text-primary-color{
+    color: whitesmoke;
+}
+
+.image-logo{
+    width: 70px;
+    height: 70px;
+    margin-bottom: 5px;
+}
+
+.site-header-text-side-logo{
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+}
+
+.main-menu{
+    font-weight: bold;
+    color: whitesmoke;
+    display: flex;
+    align-items: center;
+    margin-top: 13px;
+}
+
+.search-circle{
+    display: flex;
+    vertical-align: middle;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    background-color: rgb(32,27,68);
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.con-wallet{
+    display: flex;
+    background-image: linear-gradient(to right ,#9e4ae0, #3e7bba);
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 180px;
+}
+
+.home-navbar-button{
+    color: #45b29f;
+}
