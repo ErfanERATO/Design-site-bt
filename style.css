@@ -1,249 +1,330 @@
-.container-fluid{
-    background-color: rgb(7, 1, 47);
-    /* padding-bottom: 50px; */
+.container-fluid {
+  background-color: rgb(7, 1, 47);
+  /* padding-bottom: 50px; */
 }
 
-.text-primary-color{
-    color: whitesmoke;
+.text-primary-color {
+  color: whitesmoke;
 }
 
-.image-logo{
-    width: 70px;
-    height: 70px;
-    margin-bottom: 5px;
+.image-logo {
+  width: 70px;
+  height: 70px;
+  margin-bottom: 5px;
 }
 
-.site-header-text-side-logo{
-    display: flex;
-    align-items: center;
-    font-weight: bold;
+.site-header-text-side-logo {
+  display: flex;
+  align-items: center;
+  font-weight: bold;
 }
 
-.main-menu{
-    font-weight: bold;
-    color: whitesmoke;
-    display: flex;
-    align-items: center;
-    margin-top: 13px;
+.main-menu {
+  font-weight: bold;
+  color: whitesmoke;
+  display: flex;
+  align-items: center;
+  margin-top: 13px;
 }
 
-.search-circle{
-    display: flex;
-    vertical-align: middle;
-    width: 45px;
-    height: 45px;
-    border-radius: 50%;
-    background-color: rgb(32,27,68);
-    align-items: center;
-    align-content: center;
-    justify-content: center;
+.search-circle {
+  display: flex;
+  vertical-align: middle;
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  background-color: rgb(32, 27, 68);
+  align-items: center;
+  align-content: center;
+  justify-content: center;
 }
 
-.con-wallet{
-    display: flex;
-    background-image: linear-gradient(to right ,#9e4ae0, #3e7bba);
-    justify-content: center;
-    align-items: center;
-    height: 50px;
-    width: 180px;
+.con-wallet {
+  display: flex;
+  background-image: linear-gradient(to right, #9e4ae0, #3e7bba);
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  width: 180px;
 }
 
-.home-navbar-button{
-    color: #45b29f;
+.home-navbar-button {
+  color: #45b29f;
 }
 
-
-.main-body{
-    background-color: #070125;
+.main-body {
+  background-color: #070125;
 }
 
-.background-shape{
-    background-color: transparent;
-    background-image: url("./image/hero-shape-1.png");
-    background-repeat: no-repeat;
-    background-size: contain;
-    width: 100%;
-    height: 750px;
+.background-shape {
+  background-color: transparent;
+  background-image: url("./image/hero-shape-1.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 100%;
+  height: 750px;
 }
 
-.image-of-slider{
-    height: 580px;
+.image-of-slider {
+  height: 580px;
 }
 
-.text-slider{
-    display: flex;
-    flex-direction: column;
-    margin-top: 85px;
-    color: whitesmoke;
+.text-slider {
+  display: flex;
+  flex-direction: column;
+  margin-top: 85px;
+  color: whitesmoke;
 }
 
-.top-small-text{
-    color: #45b29f;
-    margin-bottom: 5px;
+.top-small-text {
+  color: #45b29f;
+  margin-bottom: 5px;
 }
 
-.main-slider-text{
-    font-weight: bold;
-    font-size: xx-large;
-    font-size: 55px;
-    margin-bottom: 10px;
+.main-slider-text {
+  font-weight: bold;
+  font-size: xx-large;
+  font-size: 55px;
+  margin-bottom: 10px;
 }
 
-.description-slider-text{
-    color: rgb(203, 203, 203);
+.description-slider-text {
+  color: rgb(203, 203, 203);
 }
 
-.slider-button{
-    display: flex;
-    flex-direction: row;
-    margin-top: 50px;
+.slider-button {
+  display: flex;
+  flex-direction: row;
+  margin-top: 50px;
 }
 
-.slider-button .get-start-button{
-    display: flex;
-    background-image: linear-gradient(to right ,#9e4ae0, #3e7bba);
-    justify-content: center;
-    align-items: center;
-    height: 50px;
-    width: 150px;
-    margin-right: 15px;
-    font-weight: bold;
+.slider-button .get-start-button {
+  display: flex;
+  background-image: linear-gradient(to right, #9e4ae0, #3e7bba);
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  width: 150px;
+  margin-right: 15px;
+  font-weight: bold;
 }
 
-.slider-button .create-nft-button{
-    display: flex;
-    background-color: #1e1d3f;
-    justify-content: center;
-    align-items: center;
-    height: 50px;
-    width: 150px;
-    font-weight: bold;
+.slider-button .create-nft-button {
+  display: flex;
+  background-color: #1e1d3f;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  width: 150px;
+  font-weight: bold;
 }
 
-.section-two-text{
-    margin-top: 80px;
-    margin-bottom: 50px;
+.section-two-text {
+  margin-top: 80px;
+  margin-bottom: 50px;
 }
 
-.Auction-text{
-    color: #45b29f;
-    margin-bottom: 8px;
+.Auction-text {
+  color: #45b29f;
+  margin-bottom: 8px;
 }
 
-.Live-Auctions-text{
-    font-weight: bolder;
-    color: whitesmoke;
-    font-size: xx-large;
+.Live-Auctions-text {
+  font-weight: bolder;
+  color: whitesmoke;
+  font-size: xx-large;
 }
 
-.row-for-two-text{
-    text-align: center;
+.row-for-two-text {
+  text-align: center;
 }
 
-
-
-.image-card{
-    border: 3px solid #2a2545;
-    background-color: #120e2f;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    align-content: center;
+.image-card {
+  border: 3px solid #2a2545;
+  background-color: #120e2f;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
 }
 
-.image-info{
-    width: 100%;
-    height: 100%;
+.image-info {
+  width: 100%;
+  height: 100%;
 }
 
-.image-holder{
-    margin-top: 25px;
+.image-holder {
+  margin-top: 25px;
 }
 
-
-.avatar-image{
-    display: flex;  
+.avatar-image {
+  display: flex;
 }
 
 .avatar {
-    vertical-align: middle;
-    width: 55px;
-    height: 55px;
-    border-radius: 50%;
+  vertical-align: middle;
+  width: 55px;
+  height: 55px;
+  border-radius: 50%;
 }
 
-.circle-avatar-and-other-text{
-    display: flex;
-    flex-direction: column;
-    margin-top: 25px;
+.circle-avatar-and-other-text {
+  display: flex;
+  flex-direction: column;
+  margin-top: 25px;
 }
 
-.creator-text{
-    color: rgb(175, 175, 175);
+.creator-text {
+  color: rgb(175, 175, 175);
 }
 
-.name-text{
-    color: whitesmoke;
-    margin-top: 5px;
-    font-weight: bold;
+.name-text {
+  color: whitesmoke;
+  margin-top: 5px;
+  font-weight: bold;
 }
 
-.text-side-avatar{
-    margin-left: 10px;
+.text-side-avatar {
+  margin-left: 10px;
 }
 
-.current-and-bid{
-    margin-left: 110px;
-
+.current-and-bid {
+  margin-left: 110px;
 }
 
-
-.text-down-avatar{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    margin-top: 20px;
+.text-down-avatar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 20px;
 }
 
-.fantesy-text{
-    color: whitesmoke;
-    font-weight: bold;
+.fantesy-text {
+  color: whitesmoke;
+  font-weight: bold;
 }
 
-.fantesy-button{
-    background-color: #1e1d3f;
-    color: whitesmoke;
-    width: 50px;
-    height: 25px;
-    text-align: center;
-    align-items: center;
-    align-content: center;
+.fantesy-button {
+  background-color: #1e1d3f;
+  color: whitesmoke;
+  width: 50px;
+  height: 25px;
+  text-align: center;
+  align-items: center;
+  align-content: center;
 }
 
-.time-box{
-    color: whitesmoke;
-    text-align: center;
-    margin-top: 30px;
-    margin-bottom: 20px;
+.time-box {
+  color: whitesmoke;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 20px;
 }
 
-.time-box-clock{
-    background-color: #1e1d3f;
+.time-box-clock {
+  background-color: #1e1d3f;
 }
 
-
-.day-box{
-    border: 1px solid #272344;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    align-content: center;
-    justify-content: center;
+.day-box {
+  border: 1px solid #272344;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
 }
 
-.text-in-box{
-    margin-top: 10px;
-    margin-bottom: 10px;
+.text-in-box {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.top-seler-back-shape {
+  background-color: transparent;
+  background-image: url("./image/section-shape-1.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 100%;
+  height: 505px;
+}
+
+.seller-col-holder {
+  margin-top: 10px;
+  color: #45b29f;
+  font-weight: bold;
+  font-size: large;
+}
+
+.top-seller-col-holder {
+  color: whitesmoke;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.see-all-seller-button {
+  display: flex;
+  background-image: linear-gradient(to right, #9e4ae0, #3e7bba);
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  width: 180px;
+  color: whitesmoke;
+  font-weight: bold;
+}
+
+.see-all-sller-col-holder {
+  display: flex;
+  justify-content: end;
+}
+
+.image-seller-holder {
+  display: flex;
+  flex-direction: row;
+}
+
+.seller-col-back-ground {
+  display: flex;
+  flex-direction: row;
+  background-color: #26254d;
+  padding: 10px;
+  padding-right: 180px;
+}
+
+.top-seller-image-and-text {
+  display: flex;
+  flex-direction: row;
+}
+
+.seller-image-info {
+  width: 100%;
+  height: 100%;
+}
+
+.seller-image {
+  width: 99px;
+  height: 99px;
+}
+
+.image-seller-holder {
+  margin-top: 30px;
+  padding: 20px;
+}
+
+.seller-information-text {
+  display: flex;
+  flex-direction: column;
+  margin-left: 25px;
+  margin-top: 20px;
+}
+
+.seller-name-text {
+  color: whitesmoke;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.seller-bid-text {
+  color: gray;
 }
