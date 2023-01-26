@@ -65,3 +65,57 @@
     width: 100%;
     height: 750px;
 }
+
+.image-of-slider{
+    height: 580px;
+}
+
+.text-slider{
+    display: flex;
+    flex-direction: column;
+    margin-top: 85px;
+    color: whitesmoke;
+}
+
+.top-small-text{
+    color: #45b29f;
+    margin-bottom: 5px;
+}
+
+.main-slider-text{
+    font-weight: bold;
+    font-size: xx-large;
+    font-size: 55px;
+    margin-bottom: 10px;
+}
+
+.description-slider-text{
+    color: rgb(203, 203, 203);
+}
+
+.slider-button{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+
+.slider-button .get-start-button{
+    display: flex;
+    background-image: linear-gradient(to right ,#9e4ae0, #3e7bba);
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 150px;
+    margin-right: 15px;
+    font-weight: bold;
+}
+
+.slider-button .create-nft-button{
+    display: flex;
+    background-color: #1e1d3f;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 150px;
+    font-weight: bold;
+}
