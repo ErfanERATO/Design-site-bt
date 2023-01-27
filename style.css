@@ -361,7 +361,7 @@
 
 .footer-description{
   color: whitesmoke;
-  width: 60%;
+  width: 90%;
   margin-top: 20px;
   margin-bottom: 10px;
 }
@@ -369,6 +369,10 @@
 .footer-logo-desc-holder{
   display: flex;
   flex-direction: row;
+}
+
+.footer-row-holder{
+  margin-left: 96px;
 }
 
 
@@ -394,4 +398,31 @@
 
 .desc-logo-icons-col{
   margin-top: 70px;
+}
+
+.Marketplace-column{
+  display: flex;
+  flex-direction: column;
+  margin-top: 90px;
+}
+
+.market-place-text{
+  color: whitesmoke;
+  font-weight: bold;
+  font-size: 21px;
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+}
+
+.sub-market-place-text{
+  font-weight: 500;
+  color: whitesmoke;
+  margin-bottom: 20px;
+}
+
+.under-line{
+  border: 1px solid #45b29f;
+  width: 60px;
+  margin-top: 15px;
 }
