@@ -426,3 +426,33 @@
   width: 60px;
   margin-top: 15px;
 }
+
+
+.footer-container-holder{
+  display: flex;
+  flex-direction: column;
+}
+
+.end-under-line{
+  border: 1px solid rgba(103, 103, 103, 0.2);
+  margin-top: 40px;
+  margin-left: 105px;
+  margin-right: 105px;
+}
+
+.owner-point{
+  color: whitesmoke;
+  margin-top: 20px;
+  font-weight: bold;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.erato-point{
+  color: #45b29f;
+}
+
+.HiBootstrap-point{
+  color: #45b29f;
+}
