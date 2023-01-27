@@ -241,6 +241,10 @@
   margin-bottom: 10px;
 }
 
+.container-card-content{
+  margin-bottom: 110px;
+}
+
 .top-seler-back-shape {
   background-color: transparent;
   background-image: url("./image/section-shape-1.png");
@@ -327,4 +331,58 @@
 
 .seller-bid-text {
   color: gray;
+}
+
+.footer-back-shape{
+  background-color: transparent;
+  background-image: url("./image/section-shape-1.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 100%;
+  height: 505px;
+}
+
+
+.footer-logo{
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-logo-and-text{
+  display: flex;
+  flex-direction: column;
+}
+
+.text-side-footer-logo{
+  margin-top: 25px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.footer-description{
+  color: whitesmoke;
+  width: 60%;
+}
+
+.footer-logo-desc-holder{
+  display: flex;
+  flex-direction: row;
+}
+
+
+.logo-border{
+  background-color: #2e3056;
+  padding: 10px;
+  width: 100%;
+  height: 100%;
+  color: #45b29f;
+  text-align: center;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  font-weight: bold;
+}
+
+.row-logo-social-holder{
+  margin-top: 30px;
 }
