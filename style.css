@@ -500,13 +500,19 @@
   flex-direction: row;
 }
 
+.colection-all-down{
+  margin-top: 15px;
+  margin-bottom: 20px;
+  margin-left: 2px;
+}
+
 .viewall-text{
   color: #45b29f;
 }
 
 .view-all-text-card-field{
   margin-top: 10px;
-  margin-left: 170px;
+  margin-left: 140px;
 }
 
 
@@ -571,4 +577,8 @@
 .column-row-side{
   display: flex;
   flex-direction: column;
+}
+
+.field-card-top-collection{
+  margin-top: 40px;
 }
