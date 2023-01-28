@@ -511,6 +511,64 @@
 
 
 .collection-image{
+  width: 110%;
+  height: 110%;
+}
+
+.collection4{
+  margin-top: 10px;
+}
+
+.aside-two-column{
+  display: flex;
+  flex-direction: column;
   width: 100%;
   height: 100%;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.collection5{
+  width: 70%;
+  height: 70%;
+}
+
+
+.row-3-colection{
+  display: flex;
+  flex-direction: row;
+}
+
+.top-row-1{
+  width: 100%;
+  height: 100%;
+}
+.top-row-2{
+  width: 100%;
+  height: 100%;
+  margin-left: 5px;
+}
+.top-row-3{
+  width: 100%;
+  height: 100%;
+  margin-left: 10px;
+}
+
+.botom-row-4{
+  width: 148%;
+  height: 148%;
+  margin-top: 5px;
+}
+.botom-row-5{
+  width: 72%;
+  height: 72%;
+  margin-top: 5px;
+  margin-left: 50px;
+}
+
+.column-row-side{
+  display: flex;
+  flex-direction: column;
 }
