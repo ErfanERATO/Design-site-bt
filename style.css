@@ -582,3 +582,100 @@
 .field-card-top-collection{
   margin-top: 40px;
 }
+
+
+
+
+
+
+
+
+.box-down-slider-image{
+  display: flex;
+  flex-direction: row;
+  background-color: #26254d74;
+  padding: 10px;
+  padding-right: 180px;
+  width: 370px;
+  height: 120px;
+}
+
+.text-in-box-down-silder-image{
+  display: flex;
+  flex-direction: column;
+  margin-left: 25px;
+  margin-top: 20px;
+}
+
+.reserve-text-silder-image-box{
+  color: whitesmoke;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.reserve-bid-slider-image-box{
+  color: #45b29f;
+}
+
+
+.reserv-bid-slider-button .place-bid-button {
+  display: flex;
+  background-image: linear-gradient(to right, #9e4ae0, #3e7bba);
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  width: 120px;
+  margin-right: 15px;
+  font-weight: bold;
+  color: whitesmoke;
+}
+
+.reserv-bid-slider-button {
+  display: flex;
+  flex-direction: row;
+  margin-top: 28px;
+  margin-left: 100px;
+}
+
+
+
+.relative-cont{
+  position: relative;
+  display: inline-block;
+}
+
+.box-down-image-slider{
+  position: absolute;
+    top: 50%;
+    left: 50%;
+    padding: 5px;
+    margin-top: 130px;
+    margin-left: -160px;
+    width: 100px;
+    text-align: center;
+}
+
+
+
+.top-slider-image-box .canvas-button {
+  display: flex;
+  background-color: #45b29f;
+  justify-content: center;
+  align-items: center;
+  height: 35px;
+  width: 80px;
+  margin-right: 15px;
+  font-weight: normal;
+  color: whitesmoke;
+}
+
+.top-slider-green-box{
+  position: absolute;
+    top: 50%;
+    left: 50%;
+    padding: 5px;
+    margin-top: -270px;
+    margin-left: -270px;
+    width: 100px;
+    text-align: center;
+}
