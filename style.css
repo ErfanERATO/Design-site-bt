@@ -456,3 +456,61 @@
 .HiBootstrap-point{
   color: #45b29f;
 }
+
+.photo-text-before-footer-card{
+  font-weight: bold;
+  color: whitesmoke;
+}
+
+.view-all-text-before-footer-card{
+  color: #45b29f;
+}
+
+.photo-text-and-button-col-holder{
+  display: flex;
+  flex-direction: row;
+}
+
+
+.card-content-holder{
+  display: flex;
+  flex-direction: column;
+}
+
+.card-section-field{
+  color: whitesmoke;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.card-field-button{
+  background-color: #1e1d3f;
+  color: whitesmoke;
+  width: 50px;
+  height: 25px;
+  text-align: center;
+  align-items: center;
+  align-content: center;
+  margin-top: 8px;
+  margin-left: 20px;
+}
+
+.card-field-text-and-button{
+  display: flex;
+  flex-direction: row;
+}
+
+.viewall-text{
+  color: #45b29f;
+}
+
+.view-all-text-card-field{
+  margin-top: 10px;
+  margin-left: 170px;
+}
+
+
+.collection-image{
+  width: 100%;
+  height: 100%;
+}
