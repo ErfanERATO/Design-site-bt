@@ -1,0 +1,34 @@
+/* @media only screen and (min-width: 300px) {
+    body {
+        background-color: red!important;
+    }
+} */
+/* @media (max-width: 599px) {
+    body.main-body {
+        background-color: red !important;
+    }
+}
+
+@media (min-width: 600px) {
+    body.main-body {
+        background-color: blue !important;
+    }
+}
+
+@media (min-width: 900px) {
+    body.main-body {
+        background-color: yellow !important;
+    }
+}
+
+@media (min-width: 1200px) {
+    body.main-body {
+        background-color: green !important;
+    }
+}
+
+@media (min-width: 2000px) {
+    body.main-body {
+        background-color: black !important;
+    }
+} */
